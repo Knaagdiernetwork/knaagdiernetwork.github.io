@@ -5,7 +5,7 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+KnaagDierNetwork is een energiek vol minecraft netwerk gevestigt in Nederland.
 
 [GitHub](https://github.com/coffeebank/moonrise)
 
