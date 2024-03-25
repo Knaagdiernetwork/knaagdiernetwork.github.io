@@ -7,7 +7,7 @@ navname: About
 
 KnaagDierNetwork is een energiek vol minecraft netwerk gevestigt in Nederland.
 
-[GitHub](https://github.com/coffeebank/moonrise)
+[discord](https://www.knaagdiernetwork.nl/discord)
 
 
 # Privacy Policy
